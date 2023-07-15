@@ -1,0 +1,4 @@
+truecallerpy
+pyTelegramBotAPI
+flask
+gunicorn
